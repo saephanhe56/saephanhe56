@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saephanhe56
+- 👋 Hi, I’m Eric Saephanh
 - 👀 I’m interested in becoming a Front End Developer
 - 🌱 I’m currently learning HTML & CSS, Javascript, React, and Tailwind
 - 💞️ I’m looking to collaborate on ...
